@@ -34,12 +34,14 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
+	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>googlechromes</string>
+		<string>comgooglemaps</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Show your location on the map.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Show your location on the map.</string>
 </dict>
 </plist>
